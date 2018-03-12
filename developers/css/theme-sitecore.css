@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'ProximaNova';
+	src: url('proximanova-regular-webfont.woff2') format('woff2'); /* Super Modern Browsers */
+}
+
+body {
+	font-family: ProximaNova,sans-serif;
+}
+
+.bg-sitecore {
+	background: #f3f6f9;
+}
+
+.bg-sitecore a {
+	color: black;
+}
+
+.btn-primary {
+	background: #de232f;
+	border: #de232f;
+	border-radius: 0;
+}
+
+.card {
+	border-radius: 0;
+}
+
+a {
+	color: #de232f;
+}
+
+.h3, h3 {
+    font-size: 1.4em;
+}
+
+.row {
+	margin-bottom: 1.2em;
+}
+
+.logo {
+	width: 150px;
+	padding: 1.5em 0;
+}
+
+.highlight-row {
+	margin-bottom: 3em;
+}
+
+.header-container {
+	border-top: 6px solid #15909c;
+}
+
+.title-container {
+	margin: 1.6em 0 3em;
+}
+
+.breadcrumb {
+padding: 1rem 0;
+margin: 0;
+background-color: transparent;
+font-size: 0.9em;
+}
+
+.alert-info {
+
+	border-color: transparent;
+}
+
+.alert {
+	border-radius: 0;
+}
+
+.text-muted {
+    color: #636c72!important;
+}
+
+footer {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.intro {
+		margin-top: 2em;
+}
